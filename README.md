@@ -18,8 +18,8 @@
 ## 🛠️ Tech Stack
 
 - **Framework**: Django (Python)
-- **Frontend**: HTML, CSS, Bootstrap (optional)
-- **Database**: SQLite (default)
+- **Frontend**: HTML, CSS, Bootstrap 
+- **Database**: SQLite 
 - **Others**: Django Admin, Django Auth
 
 
